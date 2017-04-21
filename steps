@@ -1,0 +1,7 @@
+Step to Create connection with mySql using Spring Data JPA and Hibernate(@Spring-Boot)
+Step
+======
+1.Add MySql connector in Pom.xml
+2.Create Entity Class with annotation 
+3.Specify some predefined properties in application.properties 
+like your DB url,classname,credential
